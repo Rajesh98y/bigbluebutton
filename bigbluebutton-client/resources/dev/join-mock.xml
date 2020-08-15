@@ -11,5 +11,5 @@
 	<webvoiceconf>85115</webvoiceconf>
 	<mode>LIVE</mode>
 	<record>false</record>
-	<welcome>&lt;br&gt;Welcome to your BigBlueButton Dev Server.&lt;br&gt;&lt;br&gt;For help using BigBlueButton &lt;a href="event:http://www.bigbluebutton.org/content/videos"&gt;&lt;u&gt;check out these videos&lt;/u&gt;&lt;/a&gt;.&lt;br&gt;&lt;br&gt;</welcome>
+	<welcome>&lt;br&gt;Welcome to your Dev Server</welcome>
 </join>
